@@ -1,1 +1,19 @@
 //Style sheet
+
+.item-card {
+  width: 250px;
+  margin: 0 10px 32px;
+  cursor: pointer;
+}
+
+img {
+ width: 100%;
+ border: 1px solid lightgray;
+
+}
+
+.item-card p {
+  margin: 0 0 4px;
+  text-align: left;
+  color: #595959;
+  }
